@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Structured Files</name>
+   <tag></tag>
+   <elementGuidId>e467bf8e-525f-4673-b1c2-cdbf57046af5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/nz-modal-container/div/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.name-div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b463c248-7d80-4ab7-bbf6-367d47e174c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name-div</value>
+      <webElementGuid>dcb8bcd1-f567-481f-87df-14ae480aaf80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Structured Files </value>
+      <webElementGuid>2fdef538-9490-4de4-8c34-e79dba5021b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nz-modal-container[@class=&quot;ng-tns-c66-205 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c66-205&quot;]/div[@class=&quot;ant-modal-content ng-tns-c66-205&quot;]/div[@class=&quot;ant-modal-body ng-tns-c66-205&quot;]/div[@class=&quot;modal-content ng-star-inserted&quot;]/div[@class=&quot;ant-row ant-row-bottom ant-row-space-around&quot;]/div[@class=&quot;ant-col ant-col-8 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;conn-item ant-dropdown-trigger ng-star-inserted&quot;]/div[@class=&quot;name-div&quot;]</value>
+      <webElementGuid>0677452d-03e9-4aa5-9806-b2c5d310cb6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nz-modal-container/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>22448a7c-eea7-43fc-85e6-d3bbe8ae1bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Formats'])[1]/following::div[7]</value>
+      <webElementGuid>8c285a11-354b-48f2-886e-081b0e697d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[19]</value>
+      <webElementGuid>070c1187-0f66-4c31-bb8c-e00d0978d902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semi Structured'])[1]/preceding::div[1]</value>
+      <webElementGuid>568a88a1-44f5-4c0e-9bfc-565572e5222f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unstructured Files'])[1]/preceding::div[5]</value>
+      <webElementGuid>ad20235a-ba29-4eba-b3fe-080077bf4f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Structured Files']/parent::*</value>
+      <webElementGuid>5c04ce71-d846-458c-8dbb-1a8bbcbe9dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>611bed8b-01c5-498f-8b3b-4ffe91a1cdf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Structured Files ' or . = ' Structured Files ')]</value>
+      <webElementGuid>a930b0ca-0fce-465b-8bf5-07e3aedd169a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

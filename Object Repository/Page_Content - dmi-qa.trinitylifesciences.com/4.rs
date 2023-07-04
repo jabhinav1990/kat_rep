@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4</name>
+   <tag></tag>
+   <elementGuidId>4f193c69-0342-47e8-937b-d46b2c7e59e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[name()='svg'])[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.umb-icon__inner.icon-navigation-right > ng-transclude > span > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e0530615-ef51-4497-a77c-5f13f080a7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>66d57e23-672e-45fd-8fb0-0674f3966e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 256 512</value>
+      <webElementGuid>2d9fafd8-ab21-458c-8963-637f76bc4cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>.fa-secondary{opacity:.4}</value>
+      <webElementGuid>e1332a5b-1f99-4e03-a713-f3e01b14045a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree&quot;)/ul[@class=&quot;umb-tree&quot;]/li[1]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/div[@class=&quot;umb-tree-item__inner&quot;]/button[@class=&quot;umb-tree-item__arrow umb-outline btn-reset&quot;]/span[@class=&quot;umb-icon&quot;]/span[@class=&quot;umb-icon__inner icon-navigation-right&quot;]/ng-transclude[1]/span[1]/svg[1]</value>
+      <webElementGuid>5be48855-356c-4fb3-a6ab-66b24342d6a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open context node for Content'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f1144b81-41ca-45ac-91b7-145a7d94fef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand child items for Trinity Market Intelligence Dashboard'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a67dd4f4-af8b-4ab5-8090-2a8fd4cf1026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trinity Market Intelligence Dashboard'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>992fcf4d-b3e9-48f5-bbd0-067c1a4dd99b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = '.fa-secondary{opacity:.4}' or . = '.fa-secondary{opacity:.4}')]</value>
+      <webElementGuid>1388ce6a-3696-48d1-b9b8-56c884b1b9e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

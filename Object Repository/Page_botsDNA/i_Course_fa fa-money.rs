@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Course_fa fa-money</name>
+   <tag></tag>
+   <elementGuidId>176c5e97-fc0a-4056-94b5-a62b43726410</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/center[1]/table[2]/tbody[1]/tr[2]/td[2]/table[1]/tbody[1]/tr[1]/td[3]/a[1]/p[@id=&quot;rcorners2&quot;]/i[@class=&quot;fa fa-money&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//p[@id='rcorners2']/i)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-money</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>09951a78-8149-44e2-9771-0f6a4e3e3384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-money</value>
+      <webElementGuid>3062ba28-24e2-4529-805f-d89aa2fe1204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>13f004a5-741a-4ab5-aac3-79438aee01c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/center[1]/table[2]/tbody[1]/tr[2]/td[2]/table[1]/tbody[1]/tr[1]/td[3]/a[1]/p[@id=&quot;rcorners2&quot;]/i[@class=&quot;fa fa-money&quot;]</value>
+      <webElementGuid>6d09cfe4-86f4-4e6e-846c-eae199da2eee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//p[@id='rcorners2']/i)[3]</value>
+      <webElementGuid>d1b5cc8f-2949-4923-8227-dd5de702137c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a/p/i</value>
+      <webElementGuid>0c8e64b3-3cff-4071-ab02-32199f4f7e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

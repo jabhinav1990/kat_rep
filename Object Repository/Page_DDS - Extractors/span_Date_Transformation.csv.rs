@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Date_Transformation.csv</name>
+   <tag></tag>
+   <elementGuidId>b5b8bf02-c469-42af-8125-265d9b0cd73d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'test_data_v12.csv' or . = 'test_data_v12.csv')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb34a367-c5b7-44b4-baa6-9ec3723e882d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>file-name</value>
+      <webElementGuid>c8364471-ec2f-4975-8687-c17cf7424c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date_Transformation.csv</value>
+      <webElementGuid>406d46a9-a87a-4e5e-a926-4f2116add5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-7&quot;)/nz-modal-container[@class=&quot;ng-tns-c66-215 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c66-215&quot;]/div[@class=&quot;ant-modal-content ng-tns-c66-215&quot;]/div[@class=&quot;ant-modal-body ng-tns-c66-215&quot;]/div[@class=&quot;modal-content ng-star-inserted&quot;]/div[@class=&quot;tree-container ng-star-inserted&quot;]/nz-tree[@class=&quot;nz_tree ng-tns-c305-216 ant-tree ant-tree-icon-hide ant-tree-block-node ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c305-216&quot;]/div[@class=&quot;ng-tns-c305-216&quot;]/div[@class=&quot;ng-tns-c305-216 ng-trigger ng-trigger-treeCollapseMotion ng-star-inserted&quot;]/nz-tree-node[@class=&quot;ng-tns-c305-216 ant-tree-treenode ng-star-inserted&quot;]/nz-tree-node-title[@class=&quot;ant-tree-node-content-wrapper&quot;]/span[@class=&quot;custom-node ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;file-name&quot;]</value>
+      <webElementGuid>09747ab4-457d-4a11-898b-7694e3afd188</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-7']/nz-modal-container/div/div/div[2]/div/div[2]/nz-tree/div[2]/div/div/nz-tree-node[62]/nz-tree-node-title/span/span/span</value>
+      <webElementGuid>5c6428a4-06e8-4e93-bb18-e9ff41f2f4ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test_data'])[1]/following::span[5]</value>
+      <webElementGuid>029bbf15-8256-497c-a39f-0b4dfa67a6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::span[9]</value>
+      <webElementGuid>dbd7a9a6-897e-429b-a132-c46c7affe9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date_and_Numeric_Transformation.csv'])[2]/preceding::span[3]</value>
+      <webElementGuid>c4e9cc44-0b8d-46f5-a885-0b6b854080b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='calendar.csv'])[2]/preceding::span[8]</value>
+      <webElementGuid>d7cca51f-daa7-4dbf-8e3d-b25e5b1067ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-tree-node[62]/nz-tree-node-title/span/span/span</value>
+      <webElementGuid>e066d597-70be-4685-8e45-d1e11b11968e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Date_Transformation.csv' or . = 'Date_Transformation.csv')]</value>
+      <webElementGuid>5057197e-5b12-40a1-a9e0-20e49f56d32f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

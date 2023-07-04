@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__input_ul small ant-input ng-tns-c181_c074de</name>
+   <tag></tag>
+   <elementGuidId>c89d6492-7d9f-40fb-b64c-c74c0d5ef2df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.input_ul.small.ant-input.ng-tns-c181-166.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e43a6f99-9068-4150-97c7-3d928bf5eb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>a143b9e2-c4e5-42ca-ab90-6495d8532c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Max length 50 characters</value>
+      <webElementGuid>01757aca-ebc4-43d6-922e-7a8ddef93b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input_ul small ant-input ng-tns-c181-166 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>0272eb07-5ef2-41ce-85de-30edcd721bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout ng-star-inserted&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/div[1]/nz-content[@class=&quot;nz_content ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/app-add-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered ng-star-inserted&quot;]/div[@class=&quot;ant-card-body&quot;]/app-create-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;create-workflow-div ant-row&quot;]/div[@class=&quot;ant-col ant-col-18 ant-col-offset-5&quot;]/div[1]/nz-form-item[@class=&quot;ant-form-item ant-row&quot;]/nz-form-control[@class=&quot;ng-tns-c181-166 ant-form-item-control ant-col ant-col-xs-24 ant-col-sm-14 ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c181-166&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c181-166&quot;]/input[@class=&quot;input_ul small ant-input ng-tns-c181-166 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>5fc5d14d-64c1-4ab6-b52b-063e0ca0cd5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>891e4cee-67da-45e5-98a6-62748f1c32b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Max length 50 characters']</value>
+      <webElementGuid>e4d5a00a-a1dc-478c-be01-5f2bd32b4072</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

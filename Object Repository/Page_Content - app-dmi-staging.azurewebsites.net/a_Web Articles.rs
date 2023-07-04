@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Web Articles</name>
+   <tag></tag>
+   <elementGuidId>0a001379-b6a1-4f5d-a7d9-28542590cfac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree']/ul/li/ul/li/ul/li[2]/ul/li[13]/ul/li/ul/li/ul/li[3]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c5772c56-7474-44e2-b67a-591753ef90b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>umb-tree-item__label</value>
+      <webElementGuid>1bc047e2-7167-4216-9a8a-7a6926e22e02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-href</name>
+      <type>Main</type>
+      <value>#/content/content/edit/1771</value>
+      <webElementGuid>bc456d1c-8199-4a0f-9534-e7a24ab93b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>select(node, $event)</value>
+      <webElementGuid>dce0b6e7-d624-44db-afab-ce52ec5dbbc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/content/content/edit/1771</value>
+      <webElementGuid>3fea99af-497e-4b38-90ea-4287ff3850f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Web Articles</value>
+      <webElementGuid>5cff8a2e-4c7b-40e4-a7d4-5b7066a6b665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree&quot;)/ul[@class=&quot;umb-tree&quot;]/li[1]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/ul[1]/li[@class=&quot;umb-animated umb-tree-item is-container has-children&quot;]/div[@class=&quot;umb-tree-item__inner&quot;]/a[@class=&quot;umb-tree-item__label&quot;]</value>
+      <webElementGuid>bc563c6f-e19d-417c-bb0d-80ef7037def7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree']/ul/li/ul/li/ul/li[2]/ul/li[13]/ul/li/ul/li/ul/li[3]/div/a</value>
+      <webElementGuid>0cdfca68-d8b9-44b8-8ab8-945291bdbbff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Web Articles')]</value>
+      <webElementGuid>6a8f2d72-70a0-470f-a46b-1e58aa7714a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand child items for Web Articles'])[1]/following::a[1]</value>
+      <webElementGuid>5fd1ddff-cd8b-4cc6-bd00-9745f5c88e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open context menu for Events'])[1]/following::a[1]</value>
+      <webElementGuid>7dfe44ef-31dc-4980-b4d6-9f1223a31965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open context menu for Web Articles'])[1]/preceding::a[1]</value>
+      <webElementGuid>b814c6da-d5c6-487b-a981-a84d85517949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand child items for Company Earnings Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>9762f7d9-beb3-4026-b3c7-894e7443beae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web Articles']/parent::*</value>
+      <webElementGuid>6ee4744e-d7b4-4308-93da-c83f57bae7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/content/content/edit/1771')]</value>
+      <webElementGuid>41d6a758-537e-4dde-837d-c7f1daaff37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/ul/li/ul/li/ul/li[3]/div/a</value>
+      <webElementGuid>74ba5922-823a-4a63-a562-7af1e96e6408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/content/content/edit/1771' and (text() = 'Web Articles' or . = 'Web Articles')]</value>
+      <webElementGuid>318cd9ef-c678-4e17-9bba-6efa365fbf3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

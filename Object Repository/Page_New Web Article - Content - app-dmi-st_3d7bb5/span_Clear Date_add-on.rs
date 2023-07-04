@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clear Date_add-on</name>
+   <tag></tag>
+   <elementGuidId>39806b23-0778-4a17-9a25-b287cdb71ea4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datepickerdatePublished']/umb-date-time-picker/ng-transclude/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.add-on</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d90e976-1bdb-4157-aebe-3a5fa764fdad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!readonly</value>
+      <webElementGuid>6c277cc9-de2c-4524-9339-64ec76cbf082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-on</value>
+      <webElementGuid>aae8f795-57df-4eb7-aacb-97a981002fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datepickerdatePublished&quot;)/umb-date-time-picker[@class=&quot;ng-pristine ng-untouched ng-valid ng-empty&quot;]/ng-transclude[1]/div[@class=&quot;input-append flatpickr-input&quot;]/span[@class=&quot;add-on&quot;]</value>
+      <webElementGuid>59f2f16c-19ac-4e8e-95ec-d0eb225ec8fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datepickerdatePublished']/umb-date-time-picker/ng-transclude/div/span</value>
+      <webElementGuid>f061d476-518d-41a2-a9b0-068055590617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Date'])[1]/following::span[1]</value>
+      <webElementGuid>76b9e89f-af34-4d78-9470-484125652ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date the article was published'])[1]/following::span[4]</value>
+      <webElementGuid>d8ab59a0-d709-4eff-9f7b-160f658f55a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excerpt'])[1]/preceding::span[4]</value>
+      <webElementGuid>b9b39e35-9abf-4518-9aca-132aa3794960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-transclude/div/span</value>
+      <webElementGuid>2dddd2aa-a0ac-4c31-ace2-c94f12c99aa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

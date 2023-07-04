@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>cc68947c-c569-4361-96da-443142e0c0af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/div[4]/div/div/form/div[4]/umb-button/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.umb-button__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>beaf763d-4eed-41f6-b260-67bdac1df5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>umb-button__content</value>
+      <webElementGuid>a7dc00ce-02c6-4d00-b185-1abea1f10112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'-hidden': vm.innerState !== 'init'}</value>
+      <webElementGuid>8058fdca-4807-46ce-9f1e-e91e1430b336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Login  </value>
+      <webElementGuid>bb1388a3-620b-46fd-a8ce-ec6c3347d3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;umb-login-container&quot;]/div[@class=&quot;form&quot;]/div[1]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/umb-button[1]/div[@class=&quot;umb-button&quot;]/button[@class=&quot;btn umb-button__button btn-success umb-button--m umb-outline&quot;]/span[@class=&quot;umb-button__content&quot;]</value>
+      <webElementGuid>0215c994-e27c-44a6-8de2-3e314c2384a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/div[4]/div/div/form/div[4]/umb-button/div/button/span</value>
+      <webElementGuid>4362f58a-07db-4760-aa98-d8bf23a265f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide password'])[1]/following::span[7]</value>
+      <webElementGuid>4e3c19ce-c612-430b-8eeb-c12a4865cef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show password'])[1]/following::span[8]</value>
+      <webElementGuid>efa9d18b-8375-4d44-8be2-0ec4b0fe2a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten password?'])[1]/preceding::span[1]</value>
+      <webElementGuid>5659f1a2-70f3-48d6-a6d0-2d4cae49d984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>ee8cccb1-19c8-4684-9f45-807c77f6579b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//umb-button/div/button/span</value>
+      <webElementGuid>2bee89d6-b5c9-44a3-9967-f4b614228eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Login  ' or . = '  Login  ')]</value>
+      <webElementGuid>6d255f90-9114-4d03-b8fd-7d69ce5ac656</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

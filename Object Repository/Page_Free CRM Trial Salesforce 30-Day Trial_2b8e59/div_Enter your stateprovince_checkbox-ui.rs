@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter your stateprovince_checkbox-ui</name>
+   <tag></tag>
+   <elementGuidId>9494791f-f1a7-46cf-b67d-866d776d5244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup_form_SgVy']/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox-ui</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13c752eb-bedb-4e28-8ea0-cdcf2723c082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-ui</value>
+      <webElementGuid>e99a9689-f072-475a-ae53-70eb0bfa719c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup_form_SgVy&quot;)/div[@class=&quot;msaCheckbox checkboxInput section&quot;]/div[1]/div[@class=&quot;field&quot;]/div[@class=&quot;checkbox-ui&quot;]</value>
+      <webElementGuid>381cd25d-d0ef-467b-81bc-830ea3e34ea5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup_form_SgVy']/div[5]/div/div/div</value>
+      <webElementGuid>71232af0-63a3-4dce-92e2-c377a1d015ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[5]/div/div/div</value>
+      <webElementGuid>f7680bea-5c0f-45e1-bcef-c244547de839</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

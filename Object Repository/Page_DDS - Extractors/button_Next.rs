@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>4c8e88f6-8b60-461a-afe7-6f1fa7ffbce4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = ' Next ' or . = ' Next ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.br-15.primary-btn.ant-btn.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>848e6b59-3d24-4c6a-a4f6-dca0ff8c0905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>2aa48303-8f50-492e-b65a-d55016d88409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>br-15 primary-btn ant-btn ng-star-inserted</value>
+      <webElementGuid>ed6e7078-72c4-406a-a027-d909193dd866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next </value>
+      <webElementGuid>358a46eb-6e46-4e80-9a06-1b56ef0bc2ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout ng-star-inserted&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/div[1]/nz-content[@class=&quot;nz_content ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/app-add-workflow[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered ng-star-inserted&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;float-right mt-1 ant-row ng-star-inserted&quot;]/button[@class=&quot;br-15 primary-btn ant-btn ng-star-inserted&quot;]</value>
+      <webElementGuid>24710778-3066-4c80-a7dc-4aa4105011ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/following::button[1]</value>
+      <webElementGuid>ea0effed-4beb-4709-804f-c648cd69d1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restricted'])[1]/following::button[1]</value>
+      <webElementGuid>57ff4d61-9f27-4f29-b118-812dab50b2b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>dce022a1-f50a-4bc9-8856-45aec53a7425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Next ' or . = ' Next ')]</value>
+      <webElementGuid>319d1a8a-f6e1-4b59-b2e8-7a88ad25c264</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

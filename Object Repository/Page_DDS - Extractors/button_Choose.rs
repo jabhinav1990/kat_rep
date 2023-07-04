@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Choose</name>
+   <tag></tag>
+   <elementGuidId>af378db0-7cfb-495a-94f2-3527e419d66c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = ' Choose ' or . = ' Choose ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>74192acd-fffc-4596-89e9-4f20de3a3d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>default primary-btn</value>
+      <webElementGuid>9db92351-e03e-4e84-9399-e369870a5336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ng-star-inserted</value>
+      <webElementGuid>09f779ea-7602-47e8-a2d7-47827d5eb878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Choose </value>
+      <webElementGuid>1e995b9c-bfaf-4085-acca-07acf4c08819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-7&quot;)/nz-modal-container[@class=&quot;ng-tns-c66-215 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c66-215&quot;]/div[@class=&quot;ant-modal-content ng-tns-c66-215&quot;]/div[@class=&quot;ant-modal-footer ng-tns-c66-215 ng-star-inserted&quot;]/button[@class=&quot;ant-btn ng-star-inserted&quot;]</value>
+      <webElementGuid>d90f4cff-1aba-493a-86ed-a03f8306666e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-7']/nz-modal-container/div/div/div[3]/button[2]</value>
+      <webElementGuid>90c219a0-7d0f-43a6-9fd5-01c262a3c2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>db86f031-312b-4e23-ab7b-bb7e79025152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='veeva_network_data'])[1]/following::button[2]</value>
+      <webElementGuid>3fd75c87-9e3e-4b3e-8a40-7bd2836f7c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>449ccd77-d348-4deb-b28c-12676bf02d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Choose ' or . = ' Choose ')]</value>
+      <webElementGuid>fde48464-0c41-4a34-b566-d5d3bce285f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Open context menu for Copy Me Org_fa-s_8972bb</name>
+   <tag></tag>
+   <elementGuidId>37f4f0ca-4245-4322-b117-b1f10dec993e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>07f9fe89-dbde-4430-befc-8688f1e668b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-secondary</value>
+      <webElementGuid>81c3590e-f606-4a68-8847-a583917b789b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M118.6 105.4l128 127.1C252.9 239.6 256 247.8 256 255.1s-3.125 16.38-9.375 22.63l-128 127.1c-9.156 9.156-22.91 11.9-34.88 6.943S64 396.9 64 383.1V128c0-12.94 7.781-24.62 19.75-29.58S109.5 96.23 118.6 105.4z</value>
+      <webElementGuid>01731c8b-2fd8-4160-8e3c-fa69e0f3c603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree&quot;)/ul[@class=&quot;umb-tree&quot;]/li[1]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/ul[1]/li[@class=&quot;umb-animated umb-tree-item has-children&quot;]/div[@class=&quot;umb-tree-item__inner&quot;]/button[@class=&quot;umb-tree-item__arrow umb-outline btn-reset&quot;]/span[@class=&quot;umb-icon&quot;]/span[@class=&quot;umb-icon__inner icon-navigation-right&quot;]/ng-transclude[1]/span[1]/svg[1]/path[@class=&quot;fa-secondary&quot;]</value>
+      <webElementGuid>f6faa4c4-b8bd-461b-a46b-259b1c54600f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

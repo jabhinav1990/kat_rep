@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Submit</name>
+   <tag></tag>
+   <elementGuidId>0c7b2e0b-a791-40f7-8589-ff73f4129340</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='umbracoMainPageBody']/div[4]/div/div/div/form/div/div[3]/div/div/umb-button[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>umb-button[type=&quot;button&quot;] > div.umb-button > button.btn.umb-button__button.btn-success.umb-button--.umb-outline > span.umb-button__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36b3e9d4-cbca-4477-8816-fdd01fec33ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>umb-button__content</value>
+      <webElementGuid>0a2a412c-9014-48a4-a398-e73ffc3c4705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'-hidden': vm.innerState !== 'init'}</value>
+      <webElementGuid>5477af3a-0355-4acc-8a1d-9a238d923cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Submit  </value>
+      <webElementGuid>26a87588-86b4-4d52-8477-588f186284a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;umbracoMainPageBody&quot;)/div[@class=&quot;umb-editors&quot;]/div[@class=&quot;umb-editor umb-editor--small umb-editor--infiniteMode umb-editor--n1 umb-editor--level1&quot;]/div[1]/div[1]/form[@class=&quot;ng-pristine ng-valid ng-valid-val-server-field ng-valid-required ng-valid-maxlength&quot;]/div[@class=&quot;umb-panel umb-editor-wrapper&quot;]/div[@class=&quot;umb-editor-footer&quot;]/div[@class=&quot;umb-editor-footer-content&quot;]/div[@class=&quot;umb-editor-footer-content__right-side&quot;]/umb-button[2]/div[@class=&quot;umb-button&quot;]/button[@class=&quot;btn umb-button__button btn-success umb-button-- umb-outline&quot;]/span[@class=&quot;umb-button__content&quot;]</value>
+      <webElementGuid>e23c0aff-809c-44e6-bb60-090183e801eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='umbracoMainPageBody']/div[4]/div/div/div/form/div/div[3]/div/div/umb-button[2]/div/button/span</value>
+      <webElementGuid>9fd7690b-4571-48c1-a2c7-391b96b532d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::span[14]</value>
+      <webElementGuid>c8ae0167-f796-42cb-82e3-a64bb56afa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::span[5]</value>
+      <webElementGuid>facd0e15-01c4-445b-b747-9e10e30a3602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon'])[1]/preceding::span[6]</value>
+      <webElementGuid>1467c517-137f-450d-a9a5-0885dc0de22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>6500858f-bbe0-49fe-8219-07f28343713a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//umb-button[2]/div/button/span</value>
+      <webElementGuid>48db8c56-89a1-4481-ac04-3acb86a96e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Submit  ' or . = '  Submit  ')]</value>
+      <webElementGuid>f186173b-f9de-4d5f-92ad-994932b8a7a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

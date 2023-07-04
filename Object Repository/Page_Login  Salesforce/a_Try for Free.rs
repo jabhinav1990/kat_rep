@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Try for Free</name>
+   <tag></tag>
+   <elementGuidId>963be0af-b093-452b-9dcb-8697451bb075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='signup_link']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#signup_link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59a0652d-a701-4366-a7f5-c78c3cb07580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button secondary</value>
+      <webElementGuid>39b54bc4-6f74-4fe3-a27d-aaea5151e86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>signup_link</value>
+      <webElementGuid>e3a7cbc8-d29b-4d97-8d04-6761ba279c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.salesforce.com/in/form/trial/freetrial.jsp?d=70130000000Enyk</value>
+      <webElementGuid>2b30bb06-1d9f-4df4-b953-be62b6f3cc3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try for Free</value>
+      <webElementGuid>77da0b64-7c6a-4a6e-9505-3a55b28a7548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup_link&quot;)</value>
+      <webElementGuid>507ca645-e255-411d-9114-2d4997f88adc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='signup_link']</value>
+      <webElementGuid>93c02e54-0baf-4814-ac37-7f819fa0bc5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='signup']/a</value>
+      <webElementGuid>2da5adc1-f76c-4272-9d14-73ec88f4cd22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Try for Free')]</value>
+      <webElementGuid>4f0df4f7-6582-4aef-8367-30e4603376d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::a[1]</value>
+      <webElementGuid>a5603325-8974-403b-aba5-8c8a43919b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::a[1]</value>
+      <webElementGuid>019662f5-68f0-4113-8583-31b6cc0997a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In with a Different Username'])[1]/preceding::a[1]</value>
+      <webElementGuid>f8936337-4324-4ed3-aab6-09e7417c5e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try for Free']/parent::*</value>
+      <webElementGuid>8822fdb6-2fbb-4c6f-bb1f-6a19be54c641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.salesforce.com/in/form/trial/freetrial.jsp?d=70130000000Enyk')]</value>
+      <webElementGuid>25107a89-10a6-4b1c-b814-c90ddafd1972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>d3ed5c33-c6d0-4ded-969b-2a0ef8f6c6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'signup_link' and @href = 'https://www.salesforce.com/in/form/trial/freetrial.jsp?d=70130000000Enyk' and (text() = 'Try for Free' or . = 'Try for Free')]</value>
+      <webElementGuid>61fec363-8721-4029-8e4b-1c9eedce3a14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

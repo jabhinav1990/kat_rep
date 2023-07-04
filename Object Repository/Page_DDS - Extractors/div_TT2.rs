@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TT2</name>
+   <tag></tag>
+   <elementGuidId>1c077a94-3b95-45af-9bc2-ebe6795c30a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'TT2' or . = 'TT2')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nz-option-item.ant-select-item.ant-select-item-option.ng-star-inserted.ant-select-item-option-active > div.ant-select-item-option-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6c3fe04-080f-4d3e-8dda-2e0a19e8ae2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>b39214be-2fa0-4509-8dd3-713605010d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TT2</value>
+      <webElementGuid>9f7fe84e-c6c0-400e-ab6f-9d09a3ec7cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-13&quot;)/nz-option-container[@class=&quot;ng-tns-c120-189 ng-trigger ng-trigger-slideMotion ant-select-dropdown ng-star-inserted ant-select-dropdown-placement-topLeft&quot;]/div[1]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/nz-option-item[@class=&quot;ant-select-item ant-select-item-option ng-star-inserted ant-select-item-option-active&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]</value>
+      <webElementGuid>40a0d3ec-cbc4-4672-a2c1-9d1c13a699cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-13']/nz-option-container/div/cdk-virtual-scroll-viewport/div/nz-option-item[17]/div</value>
+      <webElementGuid>99eb5d28-ba0c-468b-ac03-bd8ffb2b7657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST_MERGE_SNOW_FLAKE'])[1]/following::div[2]</value>
+      <webElementGuid>b169c2aa-1264-42f5-a3a0-e2b3c063d85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SNOWTEST'])[1]/following::div[3]</value>
+      <webElementGuid>411b2980-c8d7-40a4-af43-02cf60748ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add item'])[1]/preceding::div[2]</value>
+      <webElementGuid>386097dd-674f-40af-bed8-3bcb9f4cacaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TT2']/parent::*</value>
+      <webElementGuid>ad13cc6c-65ac-47bf-a2ae-bf398328a5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nz-option-item[17]/div</value>
+      <webElementGuid>d735cfd9-a791-429a-ae05-ea9cb84937ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TT2' or . = 'TT2')]</value>
+      <webElementGuid>1ecddb6c-cc1f-4bba-becf-e8b63eedd771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

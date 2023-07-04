@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create Web Article</name>
+   <tag></tag>
+   <elementGuidId>d192b5b7-d367-444a-ae7d-a925d51e4c0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[79]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-outline.umb-outline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>65d5100a-22a2-47d9-aea2-c2b638787ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9220a150-2720-4734-8ec8-025b031f44ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline umb-outline</value>
+      <webElementGuid>03896f95-3331-4baf-9f8a-0a4c702a797f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>createBlank(entityType,listViewAllowedTypes[0].alias)</value>
+      <webElementGuid>da86ae58-f6cb-421a-81a8-422a8ecff565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                           Create Web Article
+                       </value>
+      <webElementGuid>0961b075-4a46-4fb3-9348-b5ba8590e8c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentcolumn&quot;)/div[@class=&quot;umb-editor&quot;]/div[1]/div[1]/div[1]/form[@class=&quot;ng-pristine ng-valid ng-valid-required ng-valid-maxlength ng-valid-val-server-field ng-valid-val-property-msg&quot;]/div[@class=&quot;umb-panel umb-editor-wrapper&quot;]/umb-variant-content-editors[1]/div[@class=&quot;umb-split-views&quot;]/div[@class=&quot;umb-split-view&quot;]/umb-variant-content[1]/div[1]/div[@class=&quot;umb-split-view__content&quot;]/div[@class=&quot;umb-editor-container umb-panel-body umb-scrollable row-fluid&quot;]/div[@class=&quot;umb-pane&quot;]/div[@class=&quot;umb-pane-content&quot;]/div[@class=&quot;umb-editor-sub-views&quot;]/div[1]/div[@class=&quot;umb-editor-sub-view sub-view-Web Articles&quot;]/div[@class=&quot;umb-editor-sub-view__content&quot;]/div[1]/umb-property[1]/div[@class=&quot;umb-property&quot;]/ng-form[@class=&quot;ng-pristine ng-valid ng-valid-val-property-msg&quot;]/div[@class=&quot;control-group umb-control-group hidelabel umb-control-group__listview&quot;]/div[@class=&quot;umb-el-wrap&quot;]/div[@class=&quot;controls&quot;]/div[@class=&quot;umb-property-editor db&quot;]/div[1]/div[1]/div[@class=&quot;umb-property-editor umb-listview&quot;]/div[@class=&quot;row-fluid umb-listview__container&quot;]/div[@class=&quot;umb-editor-sub-header umb-editor-sub-header--&quot;]/div[@class=&quot;umb-editor-sub-header__content-left&quot;]/div[@class=&quot;umb-editor-sub-header__section&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;btn btn-outline umb-outline&quot;]</value>
+      <webElementGuid>a8fbe16b-16c7-492d-b6da-3c022a68af76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[79]</value>
+      <webElementGuid>4ddccbfa-9aa0-4b77-a750-995886538931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentcolumn']/div/div/div/div/form/div/umb-variant-content-editors/div/div/umb-variant-content/div/div/div/div[2]/div/div[2]/div/div/div/div/umb-property/div/ng-form/div/div[2]/div[2]/div/div/div/div/div/div[2]/div/div/div/button</value>
+      <webElementGuid>4161c3a3-de07-43e0-9911-31bcca2af406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This item is in the Recycle Bin'])[1]/following::button[1]</value>
+      <webElementGuid>77bce02b-a02e-4734-8e16-db6a9846fa66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web Article']/parent::*</value>
+      <webElementGuid>9ddea8f9-907e-4628-98d0-72981b46ace1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>16586fce-bef5-4d44-bfc9-385b868bc6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                           Create Web Article
+                       ' or . = '
+                           Create Web Article
+                       ')]</value>
+      <webElementGuid>8db2accb-1fcf-438b-9773-96c7b6517ae8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
