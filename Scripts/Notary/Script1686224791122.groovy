@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://botsdna.com/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Page_botsDNA/i_Course_fa fa-money'))
 
 WebUI.setText(findTestObject('Object Repository/Page_botsDNA-Notary/input_NOTARY ADVOCATE NAME_notary'), 'Adv')
